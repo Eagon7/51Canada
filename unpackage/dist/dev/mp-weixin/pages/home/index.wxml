@@ -1,0 +1,1 @@
+<view class="_div">我的页面<router-link vue-id="6b3d36ea-1" to="{name: index,params: {name: 'router-link'}}" bind:__l="__l" vue-slots="{{['default']}}"><button type="primary">使用name对象跳转</button></router-link></view>
